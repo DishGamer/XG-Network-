@@ -33,7 +33,7 @@
     "yt-search": "^2.10.1"
   },
   "devDependencies": {
-    "node": "^16.10.0"
+    "node": "^17.7.1"
   },
   "description": ""
 }
