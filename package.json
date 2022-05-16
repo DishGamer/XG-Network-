@@ -20,7 +20,7 @@
     "discord.js": "^13.2.0",
     "djs-anime": "^2.0.10",
     "figlet": "^1.5.2",
-    "glob": "^7.1.7",
+    "glob": "^8.0.3",
     "leoapi.xyz": "^1.1.5",
     "moment": "^2.29.1",
     "moment-duration-format": "^2.3.2",
